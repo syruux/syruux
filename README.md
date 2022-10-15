@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syruux aka of Dario Pace and... this is me!
+- 👋 Hi, I’m @syruux aka of Dario!
 - 👀 I’m interested in web development and all the new technlogies useful to the scientific research!
 - 🌱 I’m currently learning CSS, HTML and JavaScript
 
